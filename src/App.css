@@ -1,0 +1,40 @@
+.title {
+  text-align: center;
+  height: 80px;
+  background-color: #222;
+  color: white;
+  padding: 5px 20px 30px;
+  font-size: 1.5em;
+}
+
+.date-now{
+  float:right;
+  font-size: 0.4em;
+  font-style: italic;
+}
+
+html{
+  background-color: beige;
+}
+
+select{
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.button{
+  background-color: #d3a625;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+  justify-content: center;
+  border-style: solid;
+  border-color: black;
+}
+
+li{
+  font-size: 0.8em;
+  float:center;
+  padding:8px
+}
